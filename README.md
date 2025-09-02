@@ -21,6 +21,8 @@ Projekt Windows Forms Application (WFA) w C# dla Visual Studio 2022 do nawiązan
 - .NET 8.0 z obsługą Windows
 - System Windows
 
+**Uwaga:** Aplikacja Windows Forms może być kompilowana tylko w środowisku Windows z zainstalowanymi komponentami Windows Desktop.
+
 ### Uruchomienie
 ```bash
 cd WinFormsApp
